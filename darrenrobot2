@@ -1,13 +1,13 @@
-package BilalBot;
+package DarrenBot;
 import robocode.*;
 //import java.awt.Color;
 
 // API help : http://robocode.sourceforge.net/docs/robocode/robocode/Robot.html
 
 /**
- * BilalBot - a robot by (your name here)
+ * DarrenBot - a robot by (your name here)
  */
-public class BilalBot extends Robot
+public class DarrenBot extends Robot
 {
 	private boolean scanned;
 	private int turns;
